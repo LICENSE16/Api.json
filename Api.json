@@ -1,9 +1,3 @@
 {
-    "SendTraffic" : false,    
-    "ForceClick"  : true,  
-    "TimeToSpawnSendTraffic" : 15,   
-    "Title" : "Download Now !", 
-    "TitleOnSpamSendTraffic" : "Try This Game !",  
-    "ImageURL" : "https://github.com/LICENSE16/jsonapi/blob/main/download%20(8).png?raw=true",   
-    "GameURL" : "https://play.google.com/work/apps/details?id=com.gangstergames.gtamafiahunter" 
+
 }
