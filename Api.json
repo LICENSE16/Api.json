@@ -1,6 +1,6 @@
 {
     "SendTraffic" : false,    
-    "ForceClick"  : False,  
+    "ForceClick"  : false,  
     "TimeToSpawnSendTraffic" : 15,   
     "Title" : "Download Now !", 
     "TitleOnSpamSendTraffic" : "Try This Game !",  
